@@ -20,8 +20,3 @@ Após executar o aplicativo.<br />
 Abrir [http://localhost:3000](http://localhost:3000) para visualizar no browser.
 
 A página será recarregada se você fizer alterações no código.<br />
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
